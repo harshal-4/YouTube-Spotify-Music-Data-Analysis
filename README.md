@@ -44,4 +44,4 @@ _Install dependencies_
 - ''' pip install -r requirements.txt '''
 
 _Run Jupyter Notebook_
-- jupyter notebook Youtube_Spotify_Music_Data_Analysis.ipynb
+- jupyter notebook [Youtube_Spotify_Music_Data_Analysis.ipynb](https://github.com/harshal-4/YouTube-Spotify-Music-Data-Analysis/blob/main/Youtube_Spotify_Music_Data_Analysis.ipynb)
